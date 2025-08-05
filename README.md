@@ -7,39 +7,39 @@ A segmentation initiative conducted during my internship at Reliance BP Mobility
 
 ## 🧠 Business Problem
 
-- 🔍 Identify high-value vs. low-engagement customer segments
-- 🎯 Tailor loyalty offers by region and behavior
-- 📈 Outcome: Reduced churn by **10%**, improved redemption by **15%**
+-  Identify high-value vs. low-engagement customer segments
+-  Tailor loyalty offers by region and behavior
+-  Outcome: Reduced churn by **10%**, improved redemption by **15%**
 
 ---
 Note: Due to company confidentiality, the actual dashboards cannot be shared. The visuals were built for internal retail strategy teams to support data-driven decision-making.
 
 ## 📸 Dashboard Snapshots
 
-### 🧮 Top-Level KPIs
+###  Top-Level KPIs
 <img src="Screenshots/Top-Level KPIs.png" width="400"/>
 
-### 📌 K-Means Segment Mapping
+###  Regional Offer Strategy
 <img src="Screenshots/Geographic Distribution.png" width="400"/>
 
-### 🌍 Regional Offer Strategy
+###  Category Wise Purchase Trend
 <img src="Screenshots/Category Wise Purchase Trend .png" width="400"/>
 
-### 📉 Loyalty Churn Impact
+###  Segment Breakdown
 <img src="Screenshots/Segment Breakdown.png" width="400"/>
 
 ---
 
 ## 🧰 Tools & Techniques
 
-- 🐍 Python: `Pandas`, `Scikit-learn`, `Matplotlib`
-- 📊 Tableau: Segment visuals, offer mapping
-- 🧠 Machine Learning: RFM logic, K-Means clustering
-- 🤝 Collaboration: Worked with loyalty and pricing teams to translate clusters into actionable strategy
+-  Python: `Pandas`, `Scikit-learn`, `Matplotlib`
+-  Tableau: Segment visuals, offer mapping
+-  Machine Learning: RFM logic, K-Means clustering
+-  Collaboration: Worked with loyalty and pricing teams to translate clusters into actionable strategy
 
 ---
 
-## 📌 Results Summary
+##  Results Summary
 
 - Identified 4 major customer personas using recency, frequency, and value patterns
 - Enabled regional teams to target segments with custom offer bundles
